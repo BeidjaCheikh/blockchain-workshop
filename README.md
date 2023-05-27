@@ -1,10 +1,13 @@
+## Blockchain Workshop
 <img src="assets/img0.png"><br>
-<h3>Deveoir : GA implementation usig MAS</h3>
+<h3>Blockchain Workshop</h3>
 <h1>compte rendu</h1><br>
 <h1>Beidja Cheikh </h1><br>
 <h2>Project Structure</h2><br>
 <img src="assets/img.png"><br>
+
 ### 1. Mine a new block
+
 http://localhost:1337/blockchain/mine avec la methode  POST.<br><br>
 <img src="assets/img1.png"><br>
 ## 2. Get the blockchain
@@ -23,6 +26,8 @@ http://localhost:1337/blockchain avec la methode  GET.<br><br>
 <img src="assets/img6.png"><br>
 ## 6. Validate the blockchain <br><br>
 <img src="assets/img7.png"><br>
+
+
 
 
 
