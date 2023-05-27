@@ -5,13 +5,13 @@
 <h2>Project Stricture</h2><br>
 <img src="assets/img.png"><br>
 ### 1. Mine a new block
-http://localhost:1337/blockchain/mine avec la methode  POST.
+http://localhost:1337/blockchain/mine avec la methode  POST.<br>
 <img src="assets/img1.png"><br>
 ## 2. Get the blockchain
-http://localhost:1337/blockchain avec la methode  GET.
+http://localhost:1337/blockchain avec la methode  GET.<br>
 <img src="assets/img2.png"><br>
 <img src="assets/img3.png"><br>
-## 3. Get Block by index
+## 3. Get Block by index<br>
 <img src="assets/img4.png"><br>
 ## 4. Add a new transaction <br><br>
   { "sender": "Beidja Cheikh",
