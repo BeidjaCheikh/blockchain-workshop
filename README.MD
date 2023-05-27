@@ -19,8 +19,10 @@ http://localhost:1337/blockchain avec la methode  GET.
     "amount": 2500
     }
  <img src="assets/img5.png"><br>
-## 5. Get the transaction pool
+## 5. Get the transaction pool<br><br>
 <img src="assets/img6.png"><br>
+## 6. Validate the blockchain <br><br>
+<img src="assets/img7.png"><br>
 
 
 
