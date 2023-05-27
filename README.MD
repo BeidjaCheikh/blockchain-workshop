@@ -4,5 +4,5 @@
 <h1>Beidja Cheikh </h1><br>
 <h2>Project Stricture</h2>
 <img src="assets/img.png">
-<h3>Miner un nouveau bloc</h3>
-http://localhost:1337/blockchain/mine
+### 1. Mine a new block
+Mine new block by requesting the endpoint `http://localhost:1337/blockchain/mine` with a POST request.
