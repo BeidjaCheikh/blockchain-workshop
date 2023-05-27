@@ -1,6 +1,6 @@
-## Blockchain Workshop
+
 <img src="assets/img0.png"><br>
-<h3>Blockchain Workshop</h3>
+<h1>Blockchain Workshop</h1>
 <h1>compte rendu</h1><br>
 <h1>Beidja Cheikh </h1><br>
 <h2>Project Structure</h2><br>
