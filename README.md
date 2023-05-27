@@ -1,4 +1,4 @@
-**## Blockchain Workshop**
+## Blockchain Workshop
 <img src="assets/img0.png"><br>
 <h3>Blockchain Workshop</h3>
 <h1>compte rendu</h1><br>
@@ -22,9 +22,9 @@ http://localhost:1337/blockchain avec la methode  GET.<br><br>
     "amount": 2500
     }
  <img src="assets/img5.png"><br>
-**## 5. Get the transaction pool<br><br>**
+## 5. Get the transaction pool<br><br>
 <img src="assets/img6.png"><br>
-**## 6. Validate the blockchain <br><br>**
+## 6. Validate the blockchain <br><br>
 <img src="assets/img7.png"><br>
 
 
