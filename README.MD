@@ -2,7 +2,7 @@
 <h3>Deveoir : GA implementation usig MAS</h3>
 <h1>compte rendu</h1><br>
 <h1>Beidja Cheikh </h1><br>
-<h2>Project Stricture</h2><br>
+<h2>Project Structure</h2><br>
 <img src="assets/img.png"><br>
 ### 1. Mine a new block
 http://localhost:1337/blockchain/mine avec la methode  POST.<br><br>
