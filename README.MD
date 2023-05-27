@@ -13,12 +13,15 @@ http://localhost:1337/blockchain avec la methode  GET.
 <img src="assets/img3.png"><br>
 ## 3. Get Block by index
 <img src="assets/img4.png"><br>
-## 4. Add a new transaction
+## 4. Add a new transaction <br><br>
   { "sender": "Beidja Cheikh",
     "recipient": "Teyeb Ali",
     "amount": 2500
     }
  <img src="assets/img5.png"><br>
+## 5. Get the transaction pool
+<img src="assets/img6.png"><br>
+
 
 
 
